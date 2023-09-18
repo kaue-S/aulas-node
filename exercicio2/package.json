@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "exercicio-2",
+  "version": "1.0.0",
+  "description": "exercicio utilizando rotas e condicionais dentro do express para criação de uma SPA.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaue-S/aulas-node.git"
+  },
+  "author": "\"Kauê\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaue-S/aulas-node/issues"
+  },
+  "homepage": "https://github.com/kaue-S/aulas-node#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
